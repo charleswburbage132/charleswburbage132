@@ -1,6 +1,6 @@
 I’m Charles Burbage, a newly graduated programmer. I’m primarily interested in game development, and and web development. 
 
-Currently self-teaching C# with Unity in my free time, after being required to take a crashcourse on it for a group project. 
+Currently self-teaching C# with Unity, and Blender in my free time, after being required to take a crashcourse on it for a group project. 
 
 I'm open to working in teams, and I'm usually the one putting a project together at the end to meet deadlines.
 
